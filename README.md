@@ -1,1 +1,1 @@
-# SQL-Queries
+This repository contains a collection of SQL exercises
